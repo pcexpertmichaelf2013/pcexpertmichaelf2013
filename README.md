@@ -4,16 +4,19 @@
 -->
 # Michael Ferree
 
-## **Contact Information**
+[Objective](#objective) - [Experience](#experience) - [Education](#education) - [Certifications](#certifications) - [Interests](#interests) - [Volunteering](#volunteering) - [References](#references-available-upon-request)
 
-- **Phone:** +1 (505) (REDACTED)
-- **Email:** [pcexpertmichaelf2013@gmail.com](mailto:pcexpertmichaelf2013@gmail.com)
+## **📞Contact Information**
 
-## **Objective**  
+- **💬 Phone:** +1 (505) (REDACTED)
+- **📫 Email:** [pcexpertmichaelf2013@gmail.com](mailto:pcexpertmichaelf2013@gmail.com)
+- **🌐 Website:** [https://github.com/PCExpertMichaelF2013/PCExpertMichaelF2013](https://github.com/PCExpertMichaelF2013/PCExpertMichaelF2013)
+
+## **✨Objective**  
 
 I am seeking a full time position with a company that values a positive customer experience as much as I do. I've had the benefit of many hours of the highest tier training from Fortune 500 companies on how to provide an excellent experience for clients. I have full availability, weekends, holidays and overtime. I have reliable transportation and I am also setup and have experience working remotely. I am willing to relocate and travel for work. I am a US Citizen and proud New Mexican.
 
-## **Experience**
+## **🤝Experience**
 
 ### _Southwest Convenience Stores LLC  - Assistant Manager / Acting Manager_  
 
@@ -83,7 +86,7 @@ Albuquerque, NM  (1997 - 1999)
 
 - Assisted customers with resolving issues and connectivity for America Online internet service on Windows/Mac computers.
 
-## **Education**
+## **🎓Education**
 
 ### *Central New Mexico Community College*  
 <[https://cnm.edu](https://cnm.edu/)>
@@ -101,7 +104,7 @@ Albuquerque, NM  (1997 - 1999)
 - New Mexico Super-computing Challenge for 4 years.
 - M.E.S.A. Math Engineering Science Achievement for 3 years. 
 
-## **Certifications**
+## **📜Certifications**
 
 ### _New Mexico Alcohol Servers Certification_  
 State of New Mexico Alcohol and Gaming Division  
@@ -124,7 +127,7 @@ UNM School of Medicine
 - CPR, airway clearing and stabilization, oxygen administration, Automated External Defibrillation (AED) use, injury stabilization, body immobilization for rescue transport, medication delivery.
 - Certified in 2000.
 
-## **Interests**
+## **🔭Interests**
 
 ### _Virtualized Computing_
 - Docker, Quick Emulator (QEMU), Linux Containers (LXC), and other containerized computing.
@@ -136,7 +139,7 @@ UNM School of Medicine
 ### _Exploring Nature:_
 - Overlanding, backpacking, stargazing, sustainable living.
 
-## **Volunteering**  
+## **🤲Volunteering**  
 
 ### _St. Felix Pantry_
 <[https://stfelixpantry.org](https://stfelixpantry.org)>
