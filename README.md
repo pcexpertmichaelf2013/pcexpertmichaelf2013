@@ -12,8 +12,7 @@
 - **🌐 Website:** [https://github.com/PCExpertMichaelF2013/](https://github.com/PCExpertMichaelF2013/)
 
 ## **✨Objective**  
-
-I am seeking a full time position with a company that values a positive customer experience as much as I do. I've had the benefit of many hours of the highest tier training from Fortune 500 companies on how to provide an excellent experience for clients. I have full availability, weekends, holidays and overtime. I have reliable transportation and I am also setup and have experience working remotely. I am willing to relocate and travel for work. I am a US Citizen and proud New Mexican.
+I am seeking a full-time position with a company that values a positive customer experience as much as I do. I've had extensive, top-tier training from several Fortune 500 companies on how to provide an excellent experience for every client. With more than ten years of remote technical support experience combined with three years of retail, customer‑facing experience — including time in management and leadership — I deliver excellent service and effective technical solutions while working with a team or independently. My background providing reliable, compassionate client care as a Residential Home Assistant further strengthens my dependability, accountability, strong interpersonal and problem‑solving skills. I have full availability, weekends, holidays and overtime. I have reliable transportation and also setup to work remotely. I am willing to travel for work and relocate for the right opportunity. I am a US Citizen and proud New Mexican.
 
 ## **🤝Experience**
 
