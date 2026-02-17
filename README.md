@@ -106,7 +106,7 @@ Albuquerque, NM  (1997 - 1999)
 
 ### _New Mexico Alcohol Servers Certification_  
 State of New Mexico Alcohol and Gaming Division  
-<[https://www.rid.state.nm.us](https://www.rid.state.nm.us/)>
+<[https://www.rld.nm.gov](https://www.rld.nm.gov/)>
 
 - Current certification (2024 - 2026).
 
